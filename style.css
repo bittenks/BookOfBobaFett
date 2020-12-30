@@ -35,7 +35,7 @@ h5 {
     color: rgb(238, 238, 228);
     font-weight: normal;
     font-size: 1.2rem;
-    margin-top: 5rem;
+    
 }
 
 .countdown-container {
@@ -58,4 +58,16 @@ h5 {
 
 .countdown-el span {
     font-size: 1.3rem;
+}
+@media (max-width: 900px) {
+    :root{
+        font-size: 62.5%;
+    }
+}
+
+@media (max-width: 900px) {
+    :root{
+        font-size: 62.5%;
+        text-align: center;
+    }
 }
