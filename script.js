@@ -21,12 +21,12 @@ function countdown() {
     minsEl.innerHTML = formatTime(mins);
     secondsEl.innerHTML = formatTime(seconds);
 }
-
+// 0 aparecer a esquerda dos numeros fazendo ficar em duas casas : 03 02 01
 function formatTime(time) {
     return time < 10 ? `0${time}` : time;
 }
 
-// initial call
+// chamada inicial 
 countdown();
 
 setInterval(countdown, 1000);
