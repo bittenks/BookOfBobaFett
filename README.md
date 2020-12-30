@@ -25,3 +25,8 @@ Eu ainda sei muito pouco sobre programação e "codar" , estou decidindo aprende
 
 ### Prévia do projeto <br/>
 https://bittenks.github.io/BookOfBobaFett/
+
+
+# Mobile-first
+
+![alt text](https://github.com/bittenks/BookOfBobaFett/blob/main/bobafett-mobile-first.gif)
